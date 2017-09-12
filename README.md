@@ -12,3 +12,5 @@ to measure the _y_-value within the resulted JSON
 Also it looks like that the machine is just a working prototype so the readings are a bit fuzzy and it is probably a good idea to do more measurements to get some reasonable data. Also for some intervals of _x_, the _y_-values are missing; feel free to interpolate.
 
 Your task is do the measurements, get the secret formula _f_ where _y = f(x)_ and send it to the organisers (with a graph included). Also, use Numpy please and attach all the code you have used.
+
+Send your solution to <a href="mailto:mlweekend@kiwi.com">mlweekend@kiwi.com</a>.
