@@ -10,6 +10,6 @@ to measure the _y_-value within the resulted JSON
 
 It looks like that the machine is just a working prototype, so the readings are a bit fuzzy and it’s probably a good idea to do more measurements to get some reasonable data. Also for some intervals of _x_, the _y_-values are missing; feel free to interpolate.
 
-Your task is do the measurements, get the secret formula _f_ where _y = f(x)_ and send it to the organisers (with a graph included). Please use Numpy to attach all the code you’ve used.
+Your task is do the measurements, get the secret formula _f_ where _y = f(x)_ and send it to the organisers (with a graph included). Please use Numpy and attach (or link) all the code you’ve used.
 
 Send your solution to <a href="mailto:mlweekend@kiwi.com">mlweekend@kiwi.com</a> no later than midnight on Sunday, October 22. We'll send you our evaluation by Tuesday, October 24. The sooner you send your solution, the sooner we'll let you know. 
